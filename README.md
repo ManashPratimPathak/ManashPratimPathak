@@ -2,7 +2,7 @@
 <h3 align="center">
   I am a web developer from Guwahati, Assam. Currently, pursuing my B.tech degree from National Institute of Technology Silchar. My work mainly focuses on responsive web-design and backend technologies.</h3>
 
-- 🌱 I’m currently learning ** DSA, Data Science, React and databases.**
+- 🌱 I’m currently learning DSA, Data Science, React and databases.
 
 - 📫 How to reach me **mppoff021@gmail.com**
 
