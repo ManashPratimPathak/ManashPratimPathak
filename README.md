@@ -1,5 +1,6 @@
 <h1 align="center">Hello 👋, I'm Manash Pratim Pathak</h1>
-<h3 align="center">Web Dev Enthusiast | Data Science Enthusiast| EE student | NITS'24I am a web developer from Guwahati, Assam. Currently, pursuing my B.tech degree from National Institute of Technology Silchar. My work mainly focuses on responsive web-design and backend technologies.</h3>
+<h3 align="center">Web Dev Enthusiast | Data Science Enthusiast| EE student | NITS'24
+  I am a web developer from Guwahati, Assam. Currently, pursuing my B.tech degree from National Institute of Technology Silchar. My work mainly focuses on responsive web-design and backend technologies.</h3>
 
 - 🌱 I’m currently learning **React and databases.**
 
