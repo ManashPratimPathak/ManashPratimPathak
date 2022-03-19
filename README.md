@@ -19,6 +19,4 @@
 
 <img  width="450em"   src="https://github-readme-streak-stats.herokuapp.com/?user=ManashPratimPathak&theme=radical" alt="Manash Streak" /> | <img  width="450em" align="center" alt="vikash's Github stats"  src="https://github-readme-stats.vercel.app/api?username=ManashPratimPathak&show_icons=true&count_private=true&theme=radical" /> 
 
-<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=manashpratimpathak&show_icons=true&locale=en&layout=compact" alt="manashpratimpathak" /></p> -->
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manashpratimpathak&show_icons=true&locale=en" alt="manashpratimpathak" /></p>
