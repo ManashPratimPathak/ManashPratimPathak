@@ -14,7 +14,8 @@
 
 
 <img  width="450em" src="https://github-readme-stats.vercel.app/api/top-langs?username=ManashPratimPathak&show_icons=true&locale=en&layout=compact&theme=radical" alt="Manash's Most used lang" />
-<img  width="450em"   src="https://github-readme-streak-stats.herokuapp.com/?user=ManashPratimPathak&theme=radical" alt="Manash Streak" /> | <img  width="450em" align="center" alt="vikash's Github stats"  src="https://github-readme-stats.vercel.app/api?username=ManashPratimPathak&show_icons=true&count_private=true&theme=radical" /> 
+<img  width="450em"   src="https://github-readme-streak-stats.herokuapp.com/?user=ManashPratimPathak&theme=radical" alt="Manash Streak" />
+<img  width="450em" align="center" alt="vikash's Github stats"  src="https://github-readme-stats.vercel.app/api?username=ManashPratimPathak&show_icons=true&count_private=true&theme=radical" /> 
 
 ### Github contribution:
 	  
