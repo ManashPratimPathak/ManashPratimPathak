@@ -21,5 +21,3 @@
 	  
 <h4 align="center">My contribution graph</h4>
 
-<p align="center"> <img width="900em" src="https://github-contribution-graph.herokuapp.com/graph?username=ManashPratimPathak&bg_color=1F222E&color=FF0075&line=77D970&point=FFFFFF&hide_border=false" alt="Manash's Github Graph" /> </p>
-
