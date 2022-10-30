@@ -13,7 +13,11 @@
 <h3 align="left">Languages and Tools:</h3>
 
 
-<img  width="400em" src="https://github-readme-stats.vercel.app/api/top-langs?username=ManashPratimPathak&show_icons=true&locale=en&layout=compact&theme=radical" alt="Manash's Most used lang" />
+### :zap: Github Stats
+
+  <img align="left" src="https://github-readme-stats.sumanth-talluri.vercel.app/api?username=Sumanth-Talluri&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Sumanth's Github Stats" width="60%">
+  
+<img src="https://github-readme-stats.ManashPratimPathak.vercel.app/api/top-langs/?username=ManashPratimPathak&show_icons=true&hide_border=true&theme=radical" width="37%" alt="Manash's Top Languages">
 <img  width="400em"   src="https://github-readme-streak-stats.herokuapp.com/?user=ManashPratimPathak&theme=radical" alt="Manash Streak" />
 <img  width="400em" align="center" alt="vikash's Github stats"  src="https://github-readme-stats.vercel.app/api?username=ManashPratimPathak&show_icons=true&count_private=true&theme=radical" /> 
 
