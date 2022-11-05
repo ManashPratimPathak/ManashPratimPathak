@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm Manash Pratim Pathak</h1>
-<h3 align="center">Web Dev Enthusiast | Data Science Enthusiast| EE student | NITS'24 <br><br> I am a pre-final year student of Electrical Engineering at the National Institute of Technology, Silchar. I have worked as a frontend Developer for various teams, fest, and Startup for the past year. Besides this, I also have experience working as a technical support member and organizing events and workshops. Currently, I have been working as a technical Head of the Entrepreneurship Cell at NIT Silchar.</h3>
+<h3 align="center">Full Stack Developer | DevOps Enthusiast| EE student | NITS'24 <br><br> I am a pre-final year student of Electrical Engineering at the National Institute of Technology, Silchar. I have worked as a frontend Developer for various teams, fest, and Startup for the past year. Besides this, I also have experience working as a technical support member and organizing events and workshops. Currently, I have been working as a technical Head of the Entrepreneurship Cell at NIT Silchar.</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=manashpratimpathak&label=Profile%20views&color=0e75b6&style=flat" alt="manashpratimpathak" /> </p>
 
