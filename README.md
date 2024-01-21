@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="200" src="https://i.ibb.co/2vFzkmR/Firefly-20240121203819.png"  />
+  <img height="400" src="https://i.ibb.co/2vFzkmR/Firefly-20240121203819.png"  />
 </div>
 
 ###
@@ -115,19 +115,7 @@
 ###
 
 <div align="center">
-  <a href="https://open.spotify.com/user/manash">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=manash&count=5" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
-
-<img src="https://raw.githubusercontent.com/manashpratimpathak/manashpratimpathak/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="center">
-  <img height="200" src="https://i.ibb.co/YW3FDDM/Blue-Illustration-90-s-Anime-Songs-Youtube-Channel-Art-1.png"  />
+  <img height="400" src="https://i.ibb.co/YW3FDDM/Blue-Illustration-90-s-Anime-Songs-Youtube-Channel-Art-1.png"  />
 </div>
 
 ###
