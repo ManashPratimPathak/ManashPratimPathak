@@ -12,7 +12,8 @@
 
 ###
 
-<h2 align="left">🌟 Konnichiwa, fellow code sorcerers! 🪄 Embarking on a digital odyssey through the cursed realms of code jujutsu. Join me in the quest for coding sorcery and boundless possibilities! #CodeCursedUser #TechSorcerer 🖥️🔮</h2>
+<h2 align="left">🌟 Konnichiwa, fellow code sorcerers! 
+  🪄 Embarking on a digital odyssey through the cursed realms of code jujutsu. Join me in the quest for coding sorcery and boundless possibilities! #CodeCursedUser #TechSorcerer 🖥️🔮</h2>
 
 ###
 
@@ -21,8 +22,6 @@
 </div>
 
 ###
-
-<br clear="both">
 
 <h3 align="left">👩‍💻  About Me</h3>
 
