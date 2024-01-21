@@ -13,7 +13,7 @@
 ###
 
 <h2 align="left">🌟 Konnichiwa, fellow code sorcerers! 
-  🪄 Embarking on a digital odyssey through the cursed realms of code jujutsu. Join me in the quest for coding sorcery and boundless possibilities! #CodeCursedUser #TechSorcerer 🖥️🔮</h2>
+  🪄 Embarking on a digital odyssey through the cursed realms of code jujutsu. Join me in the quest for coding sorcery and boundless possibilities! 🖥️🔮</h2>
 
 ###
 
@@ -27,7 +27,7 @@
 
 ###
 
-<p align="left">- 🚀 Freelance Developer at WorkWithDaas.com, slashing through projects with the agility of a Demon Slayer using React.js and Tailwind CSS like a Breathing Technique.<br>- 🌊 Architect of the Early Flood Warning System, unleashing the monstrosity of QGIS Map, FastAPI, and machine learning – a Monster of a project.<br>- 💪 Crafting the Neurafit App with the mad scientist vibes of Steins Gate, using Flutter, Node.js, PoseNet library, and storing data in the time-traveling MongoDB.<br>- 🌟 Leading as the Hokage (Technical Head/Mentor) at Entrepreneurship Cell NIT Silchar, guiding tech genin on their journey like a Kakashi-sensei with his team.<br>- 🏆 Winner of The Un-flood Assam and NITS Hacks 5.0 Hackathon, with a 2nd Position at Neurathon 2023 – orchestrating victories like a puppet master from Monster.<br>- ⚙️ Solving 800+ algorithmic problems on platforms like LeetCode & GeeksForGeek, wielding the Death Note of code to conquer the coding realm. 🍥✨</p>
+<p align="left">- 🌊 Architect of the Early Flood Warning System, unleashing the monstrosity of QGIS Map, FastAPI, and machine learning – a Monster of a project.<br>- 💪 Crafted the Neurafit App with the mad scientist vibes of Steins Gate, using Flutter, Node.js, PoseNet library, and storing data in the time-traveling MongoDB.<br>- 🌟 Lead as the Hokage (Technical Head/Mentor) at Entrepreneurship Cell NIT Silchar, guiding tech genin on their journey like a Kakashi-sensei with his team.<br>- 🏆 Winner of The Un-flood Assam and NITS Hacks 5.0 Hackathon, with a 2nd Position at Neurathon 2023 – orchestrating victories like a puppet master from Monster.<br>- ⚙️ Solving 800+ algorithmic problems on platforms like LeetCode & GeeksForGeek, wielding the Death Note of code to conquer the coding realm. 🍥✨</p>
 
 ###
 
