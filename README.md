@@ -80,7 +80,7 @@
 
 ###
 
-<h3 align="left">currently learning 📚</h3>
+<h3 align="left">Currently learning 📚</h3>
 
 ###
 
