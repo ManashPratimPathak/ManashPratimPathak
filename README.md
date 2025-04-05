@@ -1,6 +1,3 @@
-<div align="center">
-  <img height="400" src="https://i.ibb.co/2vFzkmR/Firefly-20240121203819.png"  />
-</div>
 
 ###
 
@@ -108,9 +105,6 @@
 
 ###
 
-<div align="center">
-  <img height="400" src="https://i.ibb.co/YW3FDDM/Blue-Illustration-90-s-Anime-Songs-Youtube-Channel-Art-1.png"  />
-</div>
 
 ###
 
