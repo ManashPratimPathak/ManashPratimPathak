@@ -14,7 +14,7 @@
 - 🎓 **Education:** Currently pursuing **Ph.D. in AI at IIT Guwahati** 🧠 | B.Tech in Electrical Engineering, NIT Silchar ('24) — **CGPA:** 8.72/10.
 - 🧠 **AI/ML Focus:** Researching Natural Language Processing (NLP), Computer Vision, and Graph Neural Networks (GNNs).
 - 🏆 **Achievements & Offers:** 
-  - Qualified GATE (CS & DA) within the **98th percentile**.
+  - Qualified GATE (CS & DA) with the **98th percentile**.
   - Received postgraduate/research offers from **IIT Kanpur (IITK)**, **IIT Guwahati (IITG)**, and **IIT Jodhpur (IITJ)**.
   - Winner of **The Un-flood Assam** (MeitY Hackathon 2022) & **The NITS Hacks 5.0** & **The Nuerathon 2023 ML Hackathon**.
 - 💼 **Experience:** **Software Engineer Intern at SkillsCapital** | Research Intern @ S.N Bose SIP | Former Freelance Developer at *WorkWithDaas.com* & Ex-Technical Head at *E-Cell, NIT Silchar*.
@@ -49,11 +49,6 @@
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ManashPratimPathak&show_icons=true&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManashPratimPathak&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Top Languages" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ManashPratimPathak&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
@@ -62,7 +57,6 @@
 ### 📫 Connect With Me
 
 <div align="center">
-  <a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="YOUR_TWITTER_URL"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
-  <a href="mailto:YOUR_EMAIL@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/manashpratimpathak/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:contactdev.manash@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </div>
