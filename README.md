@@ -18,8 +18,7 @@
   - Received postgraduate/research offers from **IIT Kanpur (IITK)**, **IIT Guwahati (IITG)**, and **IIT Jodhpur (IITJ)**.
   - Winner of **The Un-flood Assam** (MeitY Hackathon 2022) & **The NITS Hacks 5.0** & **The Nuerathon 2023 ML Hackathon**.
 - 💼 **Experience:** **Software Engineer Intern at SkillsCapital** | Research Intern @ S.N Bose SIP | Former Freelance Developer at *WorkWithDaas.com* & Ex-Technical Head at *E-Cell, NIT Silchar*.
-- ⚔️ **Competitive Programming:** Grinding towards Knight on LeetCode & maintaining a 1300+ rating on Codeforces.
-- 🌱 **Beyond the Screen:** Studying for JLPT N4, analyzing elite chess games, and reading philosophy.
+- 🌱 **Beyond the Screen:** Studying for JLPT N5, playing chess games, and reading philosophy.
 
 ---
 
