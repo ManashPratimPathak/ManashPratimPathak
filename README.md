@@ -1,6 +1,6 @@
 <div align="center">
-  <h1>Hi there, I'm Manash Pratim Pathak 👋</h1>
-  <p><i>Ph.D. Researcher in AI @ IIT Guwahati | Software Engineer Intern @ SkillsCapital</i></p>
+  <h1>Hi there, I'm Manash Pratim Pathak </h1>
+  <p><i>Ph.D. Researcher in AI @ IIT Guwahati | Ex Software Engineer @ SkillsCapital</i></p>
 
   <a href="https://github.com/ManashPratimPathak">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=AI+|+Machine+Learning+Researcher;Software+Engineer+@+SkillsCapital;Competitive+Programmer;DevOps+Enthusiast" alt="Typing SVG" />
@@ -9,16 +9,16 @@
 
 ---
 
-### 👨‍💻 About Me
+###  About Me
 
-- 🎓 **Education:** Currently pursuing **Ph.D. in AI at IIT Guwahati** 🧠 | B.Tech in Electrical Engineering, NIT Silchar ('24) — **CGPA:** 8.72/10.
-- 🧠 **AI/ML Focus:** Researching Natural Language Processing (NLP), Computer Vision, and Graph Neural Networks (GNNs).
-- 🏆 **Achievements & Offers:** 
+-  **Education:** Currently pursuing **Ph.D. in AI at IIT Guwahati**  | B.Tech in Electrical Engineering, NIT Silchar ('24) — **CGPA:** 8.72/10.
+-  **AI/ML Focus:** Researching Natural Language Processing (NLP), Computer Vision, and Graph Neural Networks (GNNs).
+-  **Achievements & Offers:** 
   - Qualified GATE (CS & DA) with the **98th percentile**.
   - Received postgraduate/research offers from **IIT Kanpur (IITK)**, **IIT Guwahati (IITG)**, and **IIT Jodhpur (IITJ)**.
   - Winner of **The Un-flood Assam** (MeitY Hackathon 2022) & **The NITS Hacks 5.0** & **The Nuerathon 2023 ML Hackathon**.
-- 💼 **Experience:** **Software Engineer Intern at SkillsCapital** | Research Intern @ S.N Bose SIP | Former Freelance Developer at *WorkWithDaas.com* & Ex-Technical Head at *E-Cell, NIT Silchar*.
-- 🌱 **Beyond the Screen:** Studying for JLPT N5, playing chess games, and reading philosophy.
+-  **Experience:** **Software Engineer at SkillsCapital** | Research Intern @ S.N Bose SIP | Former Freelance Developer at *WorkWithDaas.com* & Ex-Technical Head at *E-Cell, NIT Silchar*.
+-  **Beyond the Screen:** Studying for JLPT N5, playing chess games, and reading philosophy.
 
 ---
 
